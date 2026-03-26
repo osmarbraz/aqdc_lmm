@@ -1,7 +1,14 @@
 # Avaliação de Questões Discursivas Curtas por LLMs: Desafios e Potenciais Aplicações Educacionais
 
-Repositório da planilha com os dados coletados e cálculos estatísticos e texto-base.
+Repositório dos arquivos utilizados em nossa pesquias. d
 
+## Arquivos
+
+Lista dos arquivos relevantes da pesquisa:
+
+ - **"aqdc_llm.xlsx"** = Planilha com dados coletados e análise estatística do experimentos.
+ - **"texto versao digital.docx"** = Texto-base da versão digital.
+ - **"texto versao impressa.docx"** = Texto-base da versão impressa.
 
 ## Citando & Autores
 
