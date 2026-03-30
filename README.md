@@ -10,7 +10,7 @@ Lista dos arquivos relevantes da pesquisa:
  - **"texto versao digital.docx"** = Texto-base da versão digital.
  - **"texto versao impressa.docx"** = Texto-base da versão impressa.
 
-## Download - Clone**
+## Download - Clone
 
 ```
 !git clone https://github.com/osmarbraz/aqdc_lmm.git
